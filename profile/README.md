@@ -1,6 +1,6 @@
 # ZeroG Studio - Discover the Fantasy of Old Games for Low-End Devices
 
-![ZeroG Studio Banner](Assets/zero.png)
+![ZeroG Studio Banner](Assets/b.png)
 
 Welcome to the official GitHub organization of **ZeroG Studio**. We are a passionate team dedicated to creating charming, non-demanding, and enjoyable games for everyone, regardless of their hardware. We believe that quality gameplay should not require the latest computing machinery.
 
